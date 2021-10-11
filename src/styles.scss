@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.flex {
+  display: flex;
+  gap: 5px;
+}
+
+.flex > div {
+  border: 1px solid pink;
+  padding: 1rem;
+}
+.flex {
+  border: 3px solid blue;
+  display:flex;
+  
+}
